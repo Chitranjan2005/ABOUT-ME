@@ -1,2 +1,2 @@
 # New-repo
-this is for pracice only
+this is for practice only
