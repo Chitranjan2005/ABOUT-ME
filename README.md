@@ -1,2 +1,4 @@
 # New-repo
-this is for practice only
+HI! I am chitranjan, and this repositry is for practce only
+
+
