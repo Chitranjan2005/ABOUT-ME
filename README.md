@@ -10,9 +10,7 @@ Currently CSE Student In GGSIPU
 * 🧠  I'm learning Advanced Javascript and close to move frameworks
 * 🤝  I'm open to collaborating on interesting projects
    
-  <div align="center">
-  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+ 
 
 ### Tech Skills:
 ###  Language
